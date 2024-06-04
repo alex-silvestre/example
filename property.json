@@ -1,0 +1,1905 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "id": 311916,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "5 marford close Test Test tetsttss",
+            "full_address": "5 marford close Test Test tetsttss, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 1,
+            "rentable_units": 0,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": false,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-04-08T14:20:36",
+            "created": "2024-04-08T14:20:36"
+        },
+        {
+            "id": 310687,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "5 marford close Test Test",
+            "full_address": "5 marford close Test Test, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 1,
+            "rentable_units": 0,
+            "letting_agent_id": null,
+            "property_owner_id": 331828,
+            "property_owner_full_name": "alex",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": false,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-03-18T16:09:47",
+            "created": "2024-03-18T16:09:47"
+        },
+        {
+            "id": 310406,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "4 barleyfields terrace Test MArk test",
+            "full_address": "4 barleyfields terrace Test MArk test, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 1,
+            "rentable_units": 1,
+            "letting_agent_id": null,
+            "property_owner_id": 90149,
+            "property_owner_full_name": "aleesha company",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-04-03T16:33:46",
+            "created": "2024-03-12T12:21:46"
+        },
+        {
+            "id": 310404,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "5 marford close Test Test Etst",
+            "full_address": "5 marford close Test Test Etst, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 2,
+            "rentable_units": 1,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-03-12T12:20:21",
+            "created": "2024-03-12T12:20:21"
+        },
+        {
+            "id": 309367,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "5 marford close Test Test",
+            "full_address": "5 marford close Test Test, 5 marford close, northwich, Cheshire, CW9 8WW, United Kingdom",
+            "address_line_1": "5 marford close",
+            "address_line_2": "",
+            "city": "northwich",
+            "county": "Cheshire",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW9 8WW",
+            "lat": 53.2457105,
+            "lng": -2.5220604,
+            "total_units": 1,
+            "rentable_units": 0,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [
+                {
+                    "id": 2126121,
+                    "content": "test",
+                    "tags": []
+                }
+            ],
+            "i_manage_this": true,
+            "latitude": 53.2457105,
+            "longitude": -2.5220604,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-03-03T11:01:59",
+            "created": "2024-02-21T13:09:09"
+        },
+        {
+            "id": 309366,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "5 marford close Test Test",
+            "full_address": "5 marford close Test Test, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 2,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-02-21T13:06:55",
+            "created": "2024-02-21T13:06:55"
+        },
+        {
+            "id": 308976,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "4 barleyfields terrace uy test",
+            "full_address": "4 barleyfields terrace uy test, 5 marford close, northwich, Cheshire, CW9 8WW, United Kingdom",
+            "address_line_1": "5 marford close",
+            "address_line_2": "",
+            "city": "northwich",
+            "county": "Cheshire",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW9 8WW",
+            "lat": 53.2457105,
+            "lng": -2.5220604,
+            "total_units": 3,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 265389,
+            "property_owner_full_name": "2nd PM Account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.2457105,
+            "longitude": -2.5220604,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-02-14T12:00:52",
+            "created": "2024-02-14T12:00:52"
+        },
+        {
+            "id": 306680,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "Villagio",
+            "full_address": "Villagio, 5 marford close, northwich, Cheshire, CW9 8WW, United Kingdom",
+            "address_line_1": "5 marford close",
+            "address_line_2": "",
+            "city": "northwich",
+            "county": "Cheshire",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW9 8WW",
+            "lat": 53.2457105,
+            "lng": -2.5220604,
+            "total_units": 1,
+            "rentable_units": 0,
+            "letting_agent_id": null,
+            "property_owner_id": 54386,
+            "property_owner_full_name": "Arthur",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": false,
+            "latitude": 53.2457105,
+            "longitude": -2.5220604,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-01-18T14:51:40",
+            "created": "2024-01-18T14:51:40"
+        },
+        {
+            "id": 306679,
+            "property_type": "HMO",
+            "property_description": "multi",
+            "ref": "5 marford close",
+            "full_address": "5 marford close, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 2,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-01-18T14:50:20",
+            "created": "2024-01-18T14:50:20"
+        },
+        {
+            "id": 306598,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "4 barleyfields terrace uy",
+            "full_address": "4 barleyfields terrace uy, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 1,
+            "rentable_units": 1,
+            "letting_agent_id": null,
+            "property_owner_id": 331828,
+            "property_owner_full_name": "alex",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-03-28T10:18:19",
+            "created": "2024-01-17T11:08:52"
+        },
+        {
+            "id": 306597,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "Gallery Esq example",
+            "full_address": "Gallery Esq example, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom (East London)",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "East London",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 2,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 90149,
+            "property_owner_full_name": "aleesha company",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-01-17T11:07:33",
+            "created": "2024-01-17T11:07:33"
+        },
+        {
+            "id": 306312,
+            "property_type": "HMO",
+            "property_description": "multi",
+            "ref": "4 barleyfields terrace test",
+            "full_address": "4 barleyfields terrace test, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace test",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9329471,
+            "lng": -1.3894071,
+            "total_units": 3,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 265389,
+            "property_owner_full_name": "2nd PM Account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [
+                "1000 spend limit",
+                "London"
+            ],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9329471,
+            "longitude": -1.3894071,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-04-16T15:16:44",
+            "created": "2024-01-11T10:57:36"
+        },
+        {
+            "id": 303868,
+            "property_type": "Land",
+            "property_description": "single",
+            "ref": "5 marford close",
+            "full_address": "5 marford close, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 1,
+            "rentable_units": 1,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": false,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-12-04T17:10:08",
+            "created": "2023-12-04T17:10:08"
+        },
+        {
+            "id": 303691,
+            "property_type": "HMO",
+            "property_description": "multi",
+            "ref": "Southwood House",
+            "full_address": "Southwood House, 123 Southwood House, London, GH2 3FG, United Kingdom",
+            "address_line_1": "123 Southwood House",
+            "address_line_2": "",
+            "city": "London",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "GH2 3FG",
+            "lat": 51.5072178,
+            "lng": -0.1275862,
+            "total_units": 4,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 33162,
+            "property_owner_full_name": "Max Milligan",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 51.5072178,
+            "longitude": -0.1275862,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-11-29T14:16:17",
+            "created": "2023-11-29T14:16:17"
+        },
+        {
+            "id": 303599,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "Villagio tes test",
+            "full_address": "Villagio tes test, 5 marford close, northwich, Cheshire, CW9 8WW, United Kingdom",
+            "address_line_1": "5 marford close",
+            "address_line_2": "",
+            "city": "northwich",
+            "county": "Cheshire",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW9 8WW",
+            "lat": 53.2457105,
+            "lng": -2.5220604,
+            "total_units": 1,
+            "rentable_units": 1,
+            "letting_agent_id": null,
+            "property_owner_id": 90149,
+            "property_owner_full_name": "aleesha company",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": false,
+            "latitude": 53.2457105,
+            "longitude": -2.5220604,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-11-28T11:28:56",
+            "created": "2023-11-28T11:28:56"
+        },
+        {
+            "id": 303598,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "4 barleyfields terrace Test Test dgcg",
+            "full_address": "4 barleyfields terrace Test Test dgcg, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 2,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 265389,
+            "property_owner_full_name": "2nd PM Account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-11-28T11:26:19",
+            "created": "2023-11-28T11:26:19"
+        },
+        {
+            "id": 302906,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "Villagio Test",
+            "full_address": "Villagio Test, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 2,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 325168,
+            "property_owner_full_name": "Lavita Flats",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-11-16T11:06:23",
+            "created": "2023-11-16T11:06:23"
+        },
+        {
+            "id": 302544,
+            "property_type": "Residential Block",
+            "property_description": "multi",
+            "ref": "5 marford close",
+            "full_address": "5 marford close, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 4,
+            "rentable_units": 3,
+            "letting_agent_id": null,
+            "property_owner_id": 90149,
+            "property_owner_full_name": "aleesha company",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-11-09T10:15:08",
+            "created": "2023-11-09T10:15:08"
+        },
+        {
+            "id": 301982,
+            "property_type": "Residential",
+            "property_description": "single",
+            "ref": "4 test test etst barleyfields terrace",
+            "full_address": "4 test test etst barleyfields terrace, 4 barleyfields terrace, Wetherby, LS22 6PW, United Kingdom",
+            "address_line_1": "4 barleyfields terrace",
+            "address_line_2": "",
+            "city": "Wetherby",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "LS22 6PW",
+            "lat": 53.9327418,
+            "lng": -1.390036,
+            "total_units": 1,
+            "rentable_units": 1,
+            "letting_agent_id": null,
+            "property_owner_id": 326067,
+            "property_owner_full_name": "Alex PM account",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 53.9327418,
+            "longitude": -1.390036,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2023-11-10T12:29:48",
+            "created": "2023-11-02T10:49:56"
+        },
+        {
+            "id": 301888,
+            "property_type": "Residential",
+            "property_description": "multi",
+            "ref": "4 barleyfielddddddds terrace",
+            "full_address": "4 barleyfielddddddds terrace, Brentwood, The Avenue, Tarporley, CW6 0BA, United Kingdom",
+            "address_line_1": "Brentwood",
+            "address_line_2": "The Avenue",
+            "city": "Tarporley",
+            "county": "",
+            "country": "United Kingdom",
+            "area": "",
+            "postcode": "CW6 0BA",
+            "lat": null,
+            "lng": null,
+            "total_units": 2,
+            "rentable_units": 2,
+            "letting_agent_id": null,
+            "property_owner_id": 90149,
+            "property_owner_full_name": "aleesha company",
+            "max_occupancy": "N/A",
+            "bathrooms": "N/A",
+            "floors": "",
+            "bedrooms": "N/A",
+            "receptions": "N/A",
+            "smart_meters": "",
+            "council_tax_band": "N/A",
+            "council_account_no": "",
+            "council_id": null,
+            "portal_market_rent": 0,
+            "portal_market_rent_frequency": "",
+            "main_image_url": null,
+            "epc_urls": [],
+            "floor_plan_urls": [],
+            "thumbnail_urls": [],
+            "image_urls": [],
+            "features": [],
+            "property_features": [],
+            "additional_features": [],
+            "tags": [
+                "1000 spend limit",
+                "London"
+            ],
+            "notes": [],
+            "i_manage_this": true,
+            "latitude": 0,
+            "longitude": 0,
+            "custom_fields": [
+                {
+                    "name": "Expiry Date",
+                    "api_name": "expiry_date",
+                    "value": ""
+                },
+                {
+                    "name": "Lease Amount",
+                    "api_name": "lease_amount",
+                    "value": ""
+                },
+                {
+                    "name": "Lease VAT Number",
+                    "api_name": "lease_vat_number",
+                    "value": ""
+                },
+                {
+                    "name": "Interest Rate (%)",
+                    "api_name": "interest_rate_",
+                    "value": ""
+                },
+                {
+                    "name": "Please check for pet",
+                    "api_name": "please_check_for_pet",
+                    "value": false
+                },
+                {
+                    "name": "Pets name",
+                    "api_name": "pets_name",
+                    "value": ""
+                },
+                {
+                    "name": "How many pets",
+                    "api_name": "how_many_pets",
+                    "value": ""
+                },
+                {
+                    "name": "Keys",
+                    "api_name": "keys",
+                    "value": ""
+                },
+                {
+                    "name": "When was your pet?",
+                    "api_name": "when_was_your_pet",
+                    "value": ""
+                }
+            ],
+            "modified": "2024-03-28T10:19:38",
+            "created": "2023-10-31T11:22:05"
+        }
+    ],
+    "pagination": {
+        "page": 1,
+        "current": 20,
+        "count": 67,
+        "pageCount": 4,
+        "limit": 20,
+        "queryScope": null
+    }
+}
